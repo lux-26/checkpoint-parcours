@@ -1,13 +1,13 @@
 # Bilan de Parcours & Préparation Professionnelle
 
-##  À propos de moi
+## À propos de moi
 - **Nom :** Ablaye Tamba
 - **Rôle :** Développeur Full-Stack (MERN)
 - **Objectif :** Intégrer le marché professionnel / Relever de nouveaux défis dans le développement web et logiciel.
 
 ---
 
-## 🛠️ Compétences acquises pendant le Bootcamp
+## Compétences acquises pendant le Bootcamp
 
 ### Front-End
 - **Langages & Frameworks :** HTML5, CSS3, JavaScript (ES6+),TypeScript, React, Next.js, Tailwind CSS, Bootstrap
